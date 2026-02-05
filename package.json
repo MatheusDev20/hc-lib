@@ -20,6 +20,9 @@
     "tsup": "^8.5.1",
     "typescript": "^5.9.3"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "pnpm": {
     "onlyBuiltDependencies": [
       "esbuild"
