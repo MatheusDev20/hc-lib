@@ -1,6 +1,6 @@
 {
   "name": "@matheusdev20/hc-lib",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "TypeScript library for Zendesk Help Centers",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
